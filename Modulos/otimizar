@@ -3,8 +3,7 @@
 #	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
 #	DESENVOLVIDO POR:	CRAZY_VPN
 #   MOD VEM_BRABO
-#	CONTATO TELEGRAM:	http://t.me/VEM_BRABO
-#	CANAL TELEGRAM:	https://t.me/ALLSOURCESBR_OFC
+#	CONTATO TELEGRAM:	http://t.me/luantech
 #===================================================
 fun_bar() {
 	comando[0]="$1"
