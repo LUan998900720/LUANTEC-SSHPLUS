@@ -1,6 +1,6 @@
 #!/bin/bash
 #====================================================
-#	@VEM_BRABO
+#	@LUANTECH SSHPLUS
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/VENHABRABO/SSHPLUS/main/Sistema/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
