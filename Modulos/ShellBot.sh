@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 #-----------------------------------------------------------------------------------------------------------
-#	DATA:				07 de Março de 2017
+#	DATA:				17 do 12 de 2023
 #	SCRIPT:				ShellBot.sh
-#	VERSÃO:				6.4.0
-#	DESENVOLVIDO POR:	Juliano Santos [SHAMAN]
+#	VERSÃO:				6.4.1
+#	DESENVOLVIDO POR:	LUAN ALMEIDA
 #	PÁGINA:				http://www.shellscriptx.blogspot.com.br
 #	FANPAGE:			https://www.facebook.com/shellscriptx
 #	GITHUB:				https://github.com/shellscriptx
