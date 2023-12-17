@@ -4,7 +4,7 @@
 #	DATA:				07 de Março de 2017
 #	SCRIPT:				ShellBot.sh
 #	VERSÃO:				6.4.0
-#	DESENVOLVIDO POR:	Juliano Santos [SHAMAN]
+#	DESENVOLVIDO POR:	LUAN ALMEIDA [@luntech_ssh]
 #	PÁGINA:				http://www.shellscriptx.blogspot.com.br
 #	FANPAGE:			https://www.facebook.com/shellscriptx
 #	GITHUB:				https://github.com/shellscriptx
