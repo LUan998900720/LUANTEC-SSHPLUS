@@ -22,7 +22,7 @@ ShellBot.username
 menu() {
     local msg
         msg="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        msg+="<b>🤖 OLA SEJA BEM VINDO(a) 🤖</b>\n"
+        msg+="<b>🤖 OLA SEJA BEM-VINDO(a) 🤖</b>\n"
         msg+="<b>script luantech sshplus</b>\n"
         msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n\n"
         msg+="Gere seu teste agora mesmo!"

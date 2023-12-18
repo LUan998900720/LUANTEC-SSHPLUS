@@ -1,10 +1,10 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: BOTSSH SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	 
+#	SCRIPT: BOTSSH LUANTEH-SSHPLUS MANAGER
+#	DESENVOLVIDO POR:	LUANNTECH 
 #	
-#   MOD @VEM_BRABO
-#	CANAL TELEGRAM:	http://t.me/ALLSOURCESBR_OFC
+#   MOD @LUANTECH-SSHPLUS
+#	CANAL TELEGRAM:	http://t.me/luantech
 #====================================================
 clear
 fun_bar() {
@@ -50,7 +50,7 @@ fun_botOnOff() {
         		wget -qO- sshplus.xyz/script/ShellBot.sh > /etc/SSHPlus/ShellBot.sh
         	}
             [[ ! -e "/etc/SSHPlus/ShellBot.sh" ]] && {
-				wget -qO- https://raw.githubusercontent.com/VENHABRABO/SSHPLUS/main/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
+				wget -qO- https://raw.github.com/LUan998900720/LUANTEC-SSHPLUS/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
 			}
             cd /etc/SSHPlus
             screen -dmS bot_plus ./bot $tokenbot $iduser >/dev/null 2>&1

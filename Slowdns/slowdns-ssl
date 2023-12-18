@@ -58,7 +58,7 @@ echo -e "CONFIGURANDO IPTABLES..."
 ipt_set () {
 cd /etc
 rm -rf rc.local
-wget https://raw.githubusercontent.com/VENHABRABO/SSHPLUS/main/Slowdns/rc.local
+wget https://raw.github.com/LUan998900720/LUANTEC-SSHPLUS/main/Slowdns/rc.local
 chmod +x /etc/rc.local
 systemctl enable rc-local
 systemctl start rc-local

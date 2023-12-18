@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------------------------------------------
 #	DATA:				17 do 12 de 2023
 #	SCRIPT:				ShellBot.sh
-#	VERSÃO:				6.4.1
+#	VERSÃO:				7.4.1
 #	DESENVOLVIDO POR:	LUAN ALMEIDA
 #	PÁGINA:				http://www.shellscriptx.blogspot.com.br
 #	FANPAGE:			https://www.facebook.com/shellscriptx

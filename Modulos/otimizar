@@ -1,8 +1,8 @@
 #!/bin/bash
 #===================================================
 #	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#   MOD VEM_BRABO
+#	DESENVOLVIDO POR:	LUANTECH-SSHPLUS
+#   LUANTECH
 #	CONTATO TELEGRAM:	http://t.me/luantech
 #===================================================
 fun_bar() {
